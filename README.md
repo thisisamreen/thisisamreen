@@ -1,5 +1,7 @@
 - 👋 Hi, @thisisamreen
-- 🌱 I’m currently learning Pyhton, MAchine learning and CSS.
+- 🎓 I am a Math graduate from DU.
+- 🌱 I’m currently learning Python, Machine learning and CSS.
+- 🎥 I like the storytelling of Ghibli movies.
 - 📫 You may reach me at @iamreenparveen@gmail.com
 
 <!---
