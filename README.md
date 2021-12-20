@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisisamreen
+- 👋 Hi, @thisisamreen
 - 🌱 I’m currently learning Pyhton, MAchine learning and CSS.
 - 📫 You may reach me at @iamreenparveen@gmail.com
 
