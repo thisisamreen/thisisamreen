@@ -1,6 +1,8 @@
 - 👋 Hi, @thisisamreen
-- 🎓 I am a Math graduate from DU.
-- 🌱 I’m currently learning Python, Machine learning and CSS.
+- 🎓 I'm a Math graduate from DU.
+- 🌱 I’m currently enrolled in the B.Sc. Degree in Data Science and Programming 
+     @IIT Madras 
+- 💻 Python, Machine Learning and CSS are my current learning subjects.
 - 🎥 I like the storytelling of Ghibli movies.
 - 📫 You may reach me at @iamreenparveen@gmail.com
 
