@@ -4,7 +4,6 @@
      @IIT Madras 
 - 📚 My knowledge encapsulates Statistics, Machine Learning, Business Data Management    
 - 💻 Java and DBMS my current learning subjects.
-- 🎥 I like the storytelling of Ghibli movies.
 - 📫 You may reach me at @iamreenparveen@gmail.com
 
 <!---
